@@ -1,11 +1,11 @@
 # src/DayFactory.py
 
 from src.Days.Day1 import Day1
-# from src.Days.Day2 import Day2
+from src.Days.Day2 import Day2
 
 advent_days = {
     'Day1': Day1(),
-    # 'Day2': Day2(),
+    'Day2': Day2(),
 }
 
 
