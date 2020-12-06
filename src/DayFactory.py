@@ -5,6 +5,7 @@ from src.Days.Day2 import Day2
 from src.Days.Day3 import Day3
 from src.Days.Day4 import Day4
 from src.Days.Day5 import Day5
+from src.Days.Day6 import Day6
 
 advent_days = {
     'Day1': Day1(),
@@ -12,6 +13,7 @@ advent_days = {
     'Day3': Day3(),
     'Day4': Day4(),
     'Day5': Day5(),
+    'Day6': Day6(),
 }
 
 
