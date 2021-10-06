@@ -2,7 +2,7 @@
 
 This repo contains the solutions of the problems listed as advent calendar days in [Advent of Code 2020 site][aoc-2020].
 
-[aoc-2019]: https://adventofcode.com/2020
+[aoc-2020]: https://adventofcode.com/2020
 
 ## Installation
 
