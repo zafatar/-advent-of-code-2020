@@ -1,5 +1,6 @@
 # src/DayFactory.py
 
+from src.Day import Day
 from src.Days.Day1 import Day1
 from src.Days.Day2 import Day2
 from src.Days.Day3 import Day3
@@ -18,6 +19,7 @@ from src.Days.Day15 import Day15
 from src.Days.Day16 import Day16
 from src.Days.Day17 import Day17
 from src.Days.Day18 import Day18
+from src.Days.Day19 import Day19
 
 advent_days = {
     'Day1': Day1(),
@@ -38,6 +40,7 @@ advent_days = {
     'Day16': Day16(),
     'Day17': Day17(),
     'Day18': Day18(),
+    'Day19': Day19(),
 }
 
 
